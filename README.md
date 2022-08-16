@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Morski!
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning JS
+- Join me at morski57@gmail.com
